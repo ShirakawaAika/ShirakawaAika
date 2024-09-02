@@ -1,6 +1,11 @@
 # [ShirakawaAika](https://github.com/ShirakawaAika)
 
-![も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです](https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg)
+<img align='left' src='https://circus-co.jp/product/dc5fl/rc/characters/aika_stand.png'>
+
+[![](https://circus-co.jp/product/dc5fl/rc/characters/self_intro_button.png)](https://youtube.com/shorts/v5v02YCsacQ)
+
+<img src='https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg' width='210px'>
+
 > も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです
 <br>
 
