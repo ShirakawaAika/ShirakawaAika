@@ -1,16 +1,29 @@
-## Hi there 👋
+# [ShirakawaAika](https://github.com/ShirakawaAika)
 
-<!--
-**ShirakawaAika/ShirakawaAika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[VNDB](https://vndb.org/c113837)
 
-Here are some ideas to get you started:
+![も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです](https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg)
+> も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+所属:香々見学園本校1年1組
+
+誕生日:5月3日
+
+<br>
+
+身長:154cm
+
+体重:45kg
+
+<br>
+
+好きなこと:あやとり、甘いお菓子
+
+苦手なこと:緊張する空間、正座
+
+<br>
+
+白河家のお嬢様の親友で、月見団子の看板娘であり、主人公・創眞の恋人。お嬢様の影武者として学園へと通っていたが、近しい友人には秘密を明かした。
+
+さらには月見団子の看板娘として、夢だったお菓子作りへの道もスタート。長年体調を崩していた母親も最近復調し、恋人との仲も良好で、これ以上ないほどに幸せな毎日を送っている。
