@@ -1,7 +1,5 @@
 # [ShirakawaAika](https://github.com/ShirakawaAika)
 
-[VNDB](https://vndb.org/c113837)
-
 ![も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです](https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg)
 > も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです
 <br>
