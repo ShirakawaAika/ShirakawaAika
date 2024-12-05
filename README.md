@@ -1,5 +1,7 @@
 # [ShirakawaAika](https://github.com/ShirakawaAika)
 
+<img align='left' src='https://circus-co.jp/product/dc5sh/rc/characters/aika_serif.png'>
+
 <img align='left' src='https://circus-co.jp/product/dc5fl/rc/characters/aika_stand.png'>
 
 [![](https://circus-co.jp/product/dc5fl/rc/characters/self_intro_button.png)](https://youtube.com/shorts/v5v02YCsacQ)
