@@ -10,7 +10,7 @@
 
 <sub> CV：相模恋</sub> 
 
-<img src='https://circus-co.jp/product/dc5fl/rc/characters/aika_event_1.jpg' width='150px' title='あ、あの……それでねお母さん。お菓子……どうだった？'> <img src='https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg' width='150px' title='も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです'>
+<img src='https://circus-co.jp/product/dc5fl/rc/characters/aika_event_1.jpg' width='210px' title='あ、あの……それでねお母さん。お菓子……どうだった？'> <img src='https://circus-co.jp/product/dc5fl/rc/characters/aika_event_2.jpg' width='210px' title='も、もう……そんなことないですよ。最近の創眞くん、灯莉ちゃんみたいです'>
 
 
 <!---
