@@ -2,7 +2,7 @@
 
 <img align='left' src='https://circus-co.jp/product/dc5sh/rc/characters/aika_serif.png'>
 
-<img align='left' src='https://circus-co.jp/product/dc5fl/rc/characters/aika_stand.png'>
+<img align='left' src='https://github.com/user-attachments/assets/497527b5-ad93-4122-bc43-0c1f3f41498a'>
 
 [![](https://circus-co.jp/product/dc5fl/rc/characters/self_intro_button.png)](https://youtube.com/shorts/v5v02YCsacQ)
 
